@@ -1,6 +1,5 @@
-
-main.Accio#Job{
-	 width =150px;
+.main Accio#Job{
+	 .width =150px;
 	height=150px;
 	background color: black;
 }
